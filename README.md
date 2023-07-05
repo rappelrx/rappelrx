@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World 👋
+You can reach me at rricafor@ucsd.edu
 
 <!--
 **rappelrx/rappelrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
