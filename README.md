@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello, World! 👋
 You can reach me at rricafor@ucsd.edu
 
 <!--
