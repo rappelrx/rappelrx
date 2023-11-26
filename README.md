@@ -1,5 +1,8 @@
 ### Hello, World! 👋
-You can reach me at rricafor@ucsd.edu
+
+- 💻 I'm currently a web dev intern at the City of San Diego, Department of IT
+- 💬 My interests include web development and ui/ux design
+- 📫 Reach out to me at rricafor@ucsd.edu
 
 <!--
 **rappelrx/rappelrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
